@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+ <rss version="2.0">
+
+<channel>
+
+<title>
+El Rincón del curioso
+</title>  
+
+<link>
+https://bioaller.wordpress.com/
+</link>  
+
+<description>
+Productos ecologicos 
+</description>
+
+
+<item>         
+
+<title>
+LA AGRICULTURA ECOLOGICA
+</title>     
+    
+<link>
+https://ecoastur.es/informacion.html
+</link>  
+
+<description>
+
+Enternder las ventajas de consumir productos ecologicos.
+
+</description>  
+</item>
+
+<item>         
+
+<title>
+10 buenas razones para consumir productos ecologicos
+</title>     
+    
+<link>
+https://www.natursoy.com/mundo-ecologico/10-buenas-razones-para-consumir-productos-ecologicos
+</link>  
+
+<description>
+
+Enternder las ventajas de consumir productos ecologicos.
+
+</description>  
+</item>
+
+</channel>
+
+ </rss>
